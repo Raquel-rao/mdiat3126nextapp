@@ -6,6 +6,6 @@ export default {
 };
 
 
-export const BasicInputs = () => <Inputs />
+export const BasicInputs = () =>  <Inputs />
 
 // export const Color = () => <Header color="#3F3" highlight={true}/>*/
