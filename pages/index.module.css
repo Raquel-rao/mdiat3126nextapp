@@ -1,0 +1,139 @@
+
+.title{
+    color: #4676E5;
+  
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+
+}
+.line2{
+   
+    font-size: 18px;
+line-height: 21px;
+    color: #000000;
+}
+.background{
+   
+
+background: #FFFFFF;
+box-shadow: 2px 4px 18px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.box1{
+    width: 20px;
+height: 20px;
+
+background: #729CF0;
+border-radius: 5px;
+}
+.title2{
+    width: 218px;
+height: 21px;
+font-size: 15px;
+line-height: 20px;
+
+
+
+color: #000000;
+
+}
+.region{
+   
+    display:flex;
+}
+.title3{
+   
+font-size: 15px;
+line-height: 21px;
+
+color: #000000;
+}
+.box2{
+    width: 20px;
+height: 20px;
+
+background: #CEE861;
+border-radius: 5px;
+}
+
+.national{
+   
+    display:flex;
+}
+.titles{
+    display:flex;
+}
+.smallbox{
+    position: absolute;
+    right: 150px;
+    top:50px;
+}
+.conbox{
+    width: 60px;
+height: 23px;
+
+background: #00C1CD;
+}
+.number{
+    font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color:#FFFFFF;
+}
+
+.bars{
+   display:inline-block;
+
+    
+}
+.bar1{
+    width: 500px;
+height: 25px;
+background: #729CF0;
+
+
+}
+.bar2{
+   
+  width: 800px;
+height: 25px;
+
+background: #CEE861;
+
+}
+.vector2group{
+    display:flex;
+    
+ 
+}
+.vector2{
+    border: 1px solid #828282;
+    border-top:none;
+ width:0;
+height: 15px;
+flex:1;
+
+}
+.vector{
+    width: 1104px;
+height: 0px;
+
+border: 1px solid #828282;
+}
+
+.numbers{
+    width: 11px;
+height: 21px;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+flex:1;
+
+color: #000000;
+}
+.data{
+    display:flex;
+   
+   
+}
