@@ -19,7 +19,7 @@ div{
   
    flex-wrap: wrap;
    align-content: center;
-   color:#FFF;
+   color:#GGG;
 }
 `;
 
